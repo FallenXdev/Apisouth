@@ -5,8 +5,9 @@
 	  "status": 0,
 	  "recommend": true,
 	  "newstatus": false,
-      "edgar_host": "SPACE-RP",
-      "edgar_port": 7777,
+      "edgar_host": "51.81.59.76",
+      "edgar_port": 20037,
       "id": 0
 	}
+
 ]
