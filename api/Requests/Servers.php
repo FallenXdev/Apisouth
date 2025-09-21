@@ -2,7 +2,7 @@
 	{
       "name": "SPACE RP #1",
 	  "color": "ff33AAD9",
-	  "status": 0,
+	  "status": 1,
 	  "recommend": true,
 	  "newstatus": false,
       "edgar_host": "51.81.59.76",
@@ -11,3 +11,4 @@
 	}
 
 ]
+
