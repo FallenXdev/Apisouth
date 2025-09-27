@@ -1,6 +1,6 @@
 {
 	"launcher_version": 55,
-	"launcher_url": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/launcher_space.apk?edgar=1829top09",
+	"launcher_url": "https://www.dropbox.com/scl/fi/kauzokw3s0pudfha2fqmv/launcher_space.apk?rlkey=p8jgibrngx4mbdesj5zlprbd5&st=w0mykfn2&dl=1",
 	"launcher_path": "/storage/emulated/0/Android/data/br.south.space/files/launcher_space.apk",
 	"launcher_name": "/launcher_space.apk",
 	"isTest": false,
@@ -151,4 +151,5 @@
 	]
 
 }
+
 
