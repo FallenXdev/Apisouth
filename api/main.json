@@ -1,5 +1,5 @@
 {
-	"servers": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/Requests/Servers.php",
+	"servers": "https://apispace.liveblog365.com/api/Requests/Servers.php",
 	"stories": "https://apispace.liveblog365.com/api/Requests/Stories.php",
 	"faq": "https://apispace.liveblog365.com/api/Requests/Faq.php",
 	"createCharacter": "https://apispace.liveblog365.com/api/Requests/CreateCharacter.php?edgar=1829top09",
@@ -9,3 +9,4 @@
     "skinsCDN": "https://apispace.liveblog365.com/api/images/skin_"
 
 }
+
