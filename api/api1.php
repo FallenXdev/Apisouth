@@ -3,7 +3,7 @@
 	"launcher_url": "https://www.dropbox.com/scl/fi/kauzokw3s0pudfha2fqmv/launcher_space.apk?rlkey=p8jgibrngx4mbdesj5zlprbd5&st=w0mykfn2&dl=1",
 	"launcher_path": "/storage/emulated/0/Android/data/br.south.space/files/launcher_space.apk",
 	"launcher_name": "/launcher_space.apk",
-	"isTest": false,
+	"isTest": true,
 	"test_api": true,
         "api": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/main.json",
 	"archives": [
@@ -151,6 +151,7 @@
 	]
 
 }
+
 
 
 
