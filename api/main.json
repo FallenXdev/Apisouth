@@ -1,12 +1,13 @@
 {
-	"servers": "https://apispace.liveblog365.com/api/Requests/Servers.php",
-	"stories": "https://apispace.liveblog365.com/api/Requests/Stories.php",
-	"faq": "https://apispace.liveblog365.com/api/Requests/Faq.php",
-	"createCharacter": "https://apispace.liveblog365.com/api/Requests/CreateCharacter.php?edgar=1829top09",
+	"servers": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/Requests/Servers.php",
+	"stories": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/Requests/Stories.php",
+	"faq": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/Requests/Faq.php",
+	"createCharacter": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/RequestsCreateCharacter.php",
     "verifyAuth": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/Requests/VerifyAuth.php",
     "accountDetails": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/Requests/AccountDetails.php",
-    "isAcc": "https://apispace.liveblog365.com/Requests/IsAcc.php?edgar=1829top09",
+    "isAcc": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/Requests/IsAcc.php",
     "skinsCDN": "https://apispace.liveblog365.com/api/images/skin_"
 
 }
+
 
