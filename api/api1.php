@@ -3,7 +3,7 @@
 	"launcher_url": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/launcher_space.apk?edgar=1829top09",
 	"launcher_path": "/storage/emulated/0/Android/data/br.south.space/files/launcher_space.apk",
 	"launcher_name": "/launcher_space.apk",
-	"isTest": true,
+	"isTest": false,
 	"test_api": true,
         "api": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/main.json",
 	"archives": [
@@ -151,3 +151,4 @@
 	]
 
 }
+
