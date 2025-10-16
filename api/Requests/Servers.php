@@ -6,9 +6,10 @@
 	  "recommend": true,
 	  "newstatus": false,
       "edgar_host": "51.81.57.217",
-      "edgar_port": 10568,
+      "edgar_port": 23981,
       "id": 0
 	}
 ]
+
 
 
