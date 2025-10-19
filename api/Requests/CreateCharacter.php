@@ -5,7 +5,7 @@ require_once 'vendor/connect.php';
 
 if (!isset($_POST['nick'], $_POST['sex'], $_POST['skin'])) {
     $response = [
-        "status" => true,
+        "status" => false,
         "message" => "Отсутствуют необходимые параметры в строке запроса."
     ];
 
@@ -22,7 +22,7 @@ $promo = $_POST['promo'];
 $check_login = R::findOne('accounts', 'name = ?', [$nick_name]);
 if ($check_login) {
     $response = [
-        "status" => true,
+        "status" => false,
         "type" => 1,
         "message" => "Такой логин уже существует",
         "fields" => ['nick_name']
@@ -73,6 +73,7 @@ else {
 }
 
 ?>
+
 
 
 
