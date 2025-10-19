@@ -44,7 +44,7 @@ if ($user_data) {
     "business" => is_zero($user_data->business,"отсутствует")
     ];
  echo json_encode($response, JSON_UNESCAPED_UNICODE);
-    // Дополнительные поля могут быть добавлены в соответствии с вашей схемой базы данных
+    
 } else {
     $response = [
         "status" => false,
@@ -52,4 +52,5 @@ if ($user_data) {
     ];
     echo json_encode($response, JSON_UNESCAPED_UNICODE);
 }
+
 ?>
