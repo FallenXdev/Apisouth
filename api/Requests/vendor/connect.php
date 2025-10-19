@@ -5,5 +5,6 @@
     // root менять на пользователя
     // последнее менять на пароль
 
-    R::setup( 'mysql:host=80.242.59.112;dbname=gs303073','gs303073', 'lsCo7S5wtg5k' );
+    R::setup( 'mysql:host=51.81.57.217;dbname=s3265530_southtestes','u3265530_KF5ci9bGmU', 'R@8c6Ch+E6zc^!=zGF5DjSDQ' );
+
 
