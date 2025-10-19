@@ -67,9 +67,10 @@ else {
     R::store($user);
 
     $response = [
-        "status" => true
+        "status" => false
     ];
     echo 1;
 }
 
 ?>
+
