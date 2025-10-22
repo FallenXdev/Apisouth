@@ -48,7 +48,7 @@ if ($skin === '') {
 
 if (!empty($error_fields)) {
     $response = [
-        "status" => true,
+        "status" => false,
         "fields" => $error_fields
     ];
 
@@ -73,7 +73,3 @@ else {
 }
 
 ?>
-
-
-
-
