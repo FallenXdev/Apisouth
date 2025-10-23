@@ -47,11 +47,12 @@ if ($user_data) {
     
 } else {
     $response = [
-        "status" => false,
+        "status" => true,
   "error" =>"Запись не найдена"
     ];
     echo json_encode($response, JSON_UNESCAPED_UNICODE);
 }
 
 ?>
+
 
