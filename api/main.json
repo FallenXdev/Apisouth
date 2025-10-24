@@ -2,13 +2,14 @@
 	"servers": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/Requests/Servers.php",
 	"stories": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/Requests/Stories.php",
 	"faq": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/Requests/Faq.php",
-	"createCharacter": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/Requests/CreateCharacter.php",
+	"createCharacter": "https://apispace.liveblog365.com/api/Requests/CreateCharacter.php",
     "verifyAuth": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/VerifyAuth.php?edgar=1829top09",
-    "accountDetails": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/Requests/AccountDetails.php",
+    "accountDetails": "https://apispace.liveblog365.com/api/Requests/AccountDetails.php",
     "isAcc": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/Requests/IsAcc.php",
     "skinsCDN": "https://triomshors.ru/matrp-zakaz-edgar/api/images/skin_"
 
 }
+
 
 
 
