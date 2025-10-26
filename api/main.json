@@ -1,5 +1,5 @@
 {
-	"servers": "http://triomshors.ru/tytor/uploads/68fe3441e5faf/api/Requests/Servers.php?edgar=1829top09",
+	"servers": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/Requests/Servers.php?edgar=1829top09",
 	"stories": "http://triomshors.ru/tytor/uploads/68fe3441e5faf/api/Requests/Stories.php?edgar=1829top09",
 	"faq": "https://triomshors.ru/tytor/uploads/68fe3441e5faf/api/Requests/Faq.php?edgar=1829top09",
 	"createCharacter": "https://triomshors.ru/tytor/uploads/68fe3441e5faf/api/Requests/CreateCharacter.php?edgar=1829top09",
@@ -8,6 +8,7 @@
     "isAcc": "http://triomshors.ru/tytor/uploads/68fe3441e5faf/api/Requests/IsAcc.php?edgar=1829top09",
     "skinsCDN": "https://triomshors.ru/matrp-zakaz-edgar/api/images/skin_"
 }
+
 
 
 
