@@ -3,11 +3,12 @@
 	"stories": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/Requests/Stories.php",
 	"faq": "https://triomshors.ru/tytor/uploads/68fe3441e5faf/api/Requests/Faq.php?edgar=1829top09",
 	"createCharacter": "https://triomshors.ru/tytor/uploads/68fe3441e5faf/api/Requests/CreateCharacter.php?edgar=1829top09",
-    "verifyAuth": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/Requests/VerifyAuth.php",
+    "verifyAuth": "https://triomshors.ru/tytor/uploads/68fe3441e5faf/api/Requests/VerifyAuth.php",
     "accountDetails": "https://triomshors.ru/tytor/uploads/68fe3441e5faf/api/Requests/AccountDetails.php?edgar=1829top09",
     "isAcc": "https://apispace.liveblog365.com/api/Requests/IsAcc.php?edgar=1829top09",
     "skinsCDN": "https://triomshors.ru/matrp-zakaz-edgar/api/images/skin_"
 }
+
 
 
 
