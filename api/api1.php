@@ -5,7 +5,7 @@
 	"launcher_name": "/launcher_space.apk",
 	"isTest": true,
 	"test_api": true,
-        "api": "https://apispace.liveblog365.com/api/main.json?edgar=1829top09",
+        "api": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/main.json?edgar=1829top09",
 	"archives": [
         {
             "type": "/storage/emulated/0/Android/data/br.south.space/files/texdb",
@@ -151,6 +151,7 @@
 	]
 
 }
+
 
 
 
