@@ -1,16 +1,13 @@
 {
-	"servers": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/Requests/Servers.php",
-	"stories": "https://apispace.liveblog365.com/api/Requests/Stories.php",
-	"faq": "https://apispace.liveblog365.com/api/Requests/Requests/Faq.php",
-	"createCharacter": "https://apispace.liveblog365.com/api/Requests/CreateCharacter.php",
-    "verifyAuth": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/Requests/VerifyAuth.php",
-    "accountDetails": "https://apispace.liveblog365.com/api/Requests/AccountDetails.php",
-    "isAcc": "https://apispace.liveblog365.com/api/Requests/IsAcc.php",
+	"servers": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/Servers.php?edgar=1829top09",
+	"stories": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/Stories.php?edgar=1829top09",
+	"faq": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/Faq.php?edgar=1829top09",
+	"createCharacter": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/CreateCharacter.php?edgar=1829top09",
+    "verifyAuth": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/VerifyAuth.php?edgar=1829top09",
+    "accountDetails": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/AccountDetails.php?edgar=1829top09",
+    "isAcc": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/IsAcc.php?edgar=1829top09",
     "skinsCDN": "https://triomshors.ru/matrp-zakaz-edgar/api/images/skin_"
-
 }
-
-
 
 
 
