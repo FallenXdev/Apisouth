@@ -3,12 +3,13 @@
 	"stories": "https://apispace.liveblog365.com/api/Requests/Stories.php",
 	"faq": "https://apispace.liveblog365.com/api/Requests/Requests/Faq.php",
 	"createCharacter": "https://apispace.liveblog365.com/api/Requests/CreateCharacter.php",
-    "verifyAuth": "https://apispace.liveblog365.com/api/Requests/VerifyAuth.php?edgar=1829top09",
+    "verifyAuth": "https://raw.githubusercontent.com/FallenXdev/Apisouth/refs/heads/main/api/Requests/VerifyAuth.php",
     "accountDetails": "https://apispace.liveblog365.com/api/Requests/AccountDetails.php",
     "isAcc": "https://apispace.liveblog365.com/api/Requests/IsAcc.php",
     "skinsCDN": "https://triomshors.ru/matrp-zakaz-edgar/api/images/skin_"
 
 }
+
 
 
 
