@@ -1,13 +1,14 @@
 {
 	"servers": "https://triomshors.ru/tytor/uploads/68feaa9ee92cc/api/Requests/Servers.php?edgar=1829top09",
-	"stories": "http://triomshors.ru/tytor/uploads/68feaa9ee92cc/api/Requests/Stories.php?edgar=1829top09",
-	"faq": "https://triomshors.ru/tytor/uploads/68feaa9ee92cc/api/Requests/Faq.php?edgar=1829top09",
+	"stories": "https://fallenxdev.alwaysdata.net/api/Requests/Stories.php?edgar=1829top09",
+	"faq": "https://fallenxdev.alwaysdata.net/api/Requests/Faq.php?edgar=1829top09",
 	"createCharacter": "https://fallenxdev.alwaysdata.net/api/Requests/CreateCharacter.php",
-    "verifyAuth": "https://triomshors.ru/tytor/uploads/68feaa9ee92cc/api/Requests/VerifyAuth.php?edgar=1829top09",
-    "accountDetails": "https://triomshors.ru/tytor/uploads/68feaa9ee92cc/api/Requests/AccountDetails.php?edgar=1829top09",
-    "isAcc": "http://triomshors.ru/tytor/uploads/68feaa9ee92cc/api/Requests/IsAcc.php?edgar=1829top09",
+    "verifyAuth": "https://fallenxdev.alwaysdata.net/api/Requests/VerifyAuth.php?edgar=1829top09",
+    "accountDetails": "https://fallenxdev.alwaysdata.net/api/Requests/AccountDetails.php?edgar=1829top09",
+    "isAcc": "https://fallenxdev.alwaysdata.net/api/Requests/IsAcc.php?edgar=1829top09",
     "skinsCDN": "https://triomshors.ru/matrp-zakaz-edgar/api/images/skin_"
 }
+
 
 
 
