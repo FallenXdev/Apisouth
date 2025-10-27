@@ -5,11 +5,12 @@
 	  "status": 1,
 	  "recommend": true,
 	  "newstatus": false,
-      "edgar_host": "191.96.224.79",
-      "edgar_port": 7917,
+      "edgar_host": "51.81.166.66",
+      "edgar_port": 35747,
       "id": 0
 	}
 ]
+
 
 
 
