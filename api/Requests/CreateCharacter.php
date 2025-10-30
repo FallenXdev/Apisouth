@@ -6,7 +6,7 @@ require_once 'vendor/connect.php';
 if (!isset($_POST['nick'], $_POST['sex'], $_POST['skin'])) {
     $response = [
         "status" => true,
-        "message" => "Отсутствуют необходимые параметры в строке запроса."
+        "message" => "Ja temos uma conta com essas informaçoes!"
     ];
 
     echo 1111;
@@ -24,7 +24,7 @@ if ($check_login) {
     $response = [
         "status" => true,
         "type" => 1,
-        "message" => "Такой логин уже существует",
+        "message" => "Seu nick esta fora dos padroes!",
         "fields" => ['nick_name']
     ];
 
@@ -73,5 +73,6 @@ else {
 }
 
 ?>
+
 
 
