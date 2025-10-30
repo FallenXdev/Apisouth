@@ -15,9 +15,10 @@ if ($user_data) {
         "donate" => $user_data->donate
     ];
  echo json_encode($response, JSON_UNESCAPED_UNICODE);
-    // Дополнительные поля могут быть добавлены в соответствии с вашей схемой базы данных
+    // acessa o banco de dados e retorna json @fallendev for nordeste rp 
 } else {
     $response[0] = [
+    
         "skin" => 0,
         "cash" => 0,
         "donate" => 0
